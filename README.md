@@ -8,5 +8,5 @@ Testing the diff tool
 Lets test this too
 No FF
 
-
+Making new file
 git.training 2014 Copyright
