@@ -6,3 +6,7 @@ Changes to be tested
 Testing the diff tool
 
 Lets test this too
+
+
+
+git.training 2014 Copyright
