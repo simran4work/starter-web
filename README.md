@@ -11,3 +11,5 @@ No FF
 Making new file
 git.training 2014 Copyright
 MAKING CHANGE FOR REBASE
+
+MORE CHANGES 
